@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "AD9CQIkpLwkHddU0MkVRBGyTx9t8kHRgrOvPpabzvFc=",
+  "Source": "PotatoPriceFinder.Server",
+  "BasePath": "_content/PotatoPriceFinder.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ASUS\\source\\repos\\test\\PotatoPriceFinder\\potatopricefinder.client\\potatopricefinder.client.esproj",
+      "Version": 2,
+      "Source": "potatopricefinder.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

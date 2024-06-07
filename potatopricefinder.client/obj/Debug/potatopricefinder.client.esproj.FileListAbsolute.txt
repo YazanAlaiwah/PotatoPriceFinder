@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\PotatoPriceFinder\potatopricefinder.client\obj\Debug\potatopricefinder.client.esproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\test\PotatoPriceFinder\potatopricefinder.client\obj\Debug\potatopricefinder.client.esproj.CoreCompileInputs.cache

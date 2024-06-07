@@ -1,0 +1,6 @@
+@PotatoPriceFinder.Server_HostAddress = http://localhost:5160
+
+GET {{PotatoPriceFinder.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

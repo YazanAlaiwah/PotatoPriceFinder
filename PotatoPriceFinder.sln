@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotatoPriceFinder.Server", "PotatoPriceFinder.Server\PotatoPriceFinder.Server.csproj", "{0027B936-750C-4FBE-B14A-AFCEA89C0521}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "potatopricefinder.client", "potatopricefinder.client\potatopricefinder.client.esproj", "{00864464-F786-4528-9576-1C365DE4BD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0027B936-750C-4FBE-B14A-AFCEA89C0521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0027B936-750C-4FBE-B14A-AFCEA89C0521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0027B936-750C-4FBE-B14A-AFCEA89C0521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0027B936-750C-4FBE-B14A-AFCEA89C0521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00864464-F786-4528-9576-1C365DE4BD21}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C4C376-C647-47F5-9A70-9A166273DB0A}
+	EndGlobalSection
+EndGlobal
