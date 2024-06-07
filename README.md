@@ -1,6 +1,6 @@
 # PotatoPriceFinder
 
-The project took 5 hours to be built 
+The project took around 5 hours to be built 
 
 this the links used while working on it 
 
